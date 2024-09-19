@@ -12,7 +12,7 @@ This repository contains the deployed version of the **Hitwicket Doofus Adventur
 
 ## Play the Game
 You can play the game directly in your browser by visiting the following link:  
-[Play the Hitwicket Doofus Adventure Game](https://rishn.github.io/HW-Test-D/)
+[Play the Hitwicket Doofus Adventure Game](https://rishn.github.io/HW_Test_D/)
 
 https://github.com/user-attachments/assets/a2ac78b3-03ea-4641-bdba-5c7b8110e393
 
