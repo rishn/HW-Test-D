@@ -1,6 +1,6 @@
 # Hitwicket Doofus Adventure Game - Deployed Version
 
-This repository contains the deployed version of the **Hitwicket Doofus Adventure Game**, created as part of the **Hitwicket Hiring Challenge**. The game is a Unity-based platformer where the player must move to the next safest platform before it disappears. The `build` and `templateData` folders are included for deployment purposes.
+This repository contains the deployed version of the **Hitwicket Doofus Adventure Game**, created as part of the **Hitwicket Hiring Challenge**. The game is a Unity-based platformer where the player must move to the next safest platform before it disappears. The `Build` and `TemplateData` folders are included for deployment purposes.
 
 ## Game Description
 - **Objective**: Move to the next platform before it disappears.
@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/a2ac78b3-03ea-4641-bdba-5c7b8110e393
 </p>
 
 ## Deployment
-This repository is deployed on GitHub Pages using the contents of the `build` and `templateData` folders.
+This repository is deployed on GitHub Pages using the contents of the `Build` and `TemplateData` folders.
