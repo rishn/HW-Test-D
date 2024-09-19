@@ -33,3 +33,6 @@ https://github.com/user-attachments/assets/a2ac78b3-03ea-4641-bdba-5c7b8110e393
 <p align="center">
   <img src="https://github.com/rishn/HW_2024_Test/blob/master/gameplay/end_screen.png?raw=true" alt="End" />
 </p>
+
+## Deployment
+This repository is deployed on GitHub Pages using the contents of the `build` and `templateData` folders.
